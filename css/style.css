@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&family=Tangerine:wght@400;700&display=swap');
+
+img {
+    width: 6.5em;
+    margin: auto;
+    text-align: center;
+
+}
+/* 
+body {
+    text-align: left;
+    font-family: 'Noto Serif', serif;
+    padding: 2em;
+}
+*/
+a>img {
+    width:2em;
+    clear: both;
+}
+
+img[alt="linkedin logo"] {
+    width: 8em;
+}
+
+#men {
+    
+    border: 4px solid #50d8cd;
+    border-radius: 7px;
+    border-style: groove;
+}
+/*
+p {
+    width: 50em;
+    text-align: right;
+    margin: auto;
+} */
+nav {
+    background-color: #10a599;
+}
+h1.mb-0 {
+    color: #10a599;
+}
+a {
+    color: #10a599;
+}
